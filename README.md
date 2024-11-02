@@ -1,7 +1,7 @@
 
 ---
 
-# Hi there! 👋 I'm [Pullaiahgari Praneeth Reddy]
+# Hi there! 👋 I'm Pullaiahgari Praneeth Reddy
 
 **Data Science Aspirant**
 
