@@ -12,7 +12,9 @@ Welcome to my GitHub profile! I am passionate about data science and continuousl
 ## 🔍 About Me
 - 📊 Aspiring Data Scientist with a strong interest in data analysis and machine learning.
 - 📈 Currently learning and enhancing my knowledge in data science and analytics.
-- 🎓 Exploring real-world applications of data science techniques and algorithms.
+- 🎓 Pursuing a Post Graduate Program in Data Science Engineering from Great Learning.
+- 🌐 Exploring real-world applications of data science techniques and algorithms.
+
 
 ## 💡 Skills and Tools
 
