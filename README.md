@@ -18,6 +18,7 @@ Welcome to my GitHub profile! I am passionate about data science and continuousl
 
 ### Programming
 - **Python**: Proficient in Python programming, including data manipulation and analysis.
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Database
 - **MySQL**: Skilled in writing and optimizing SQL queries for data retrieval and manipulation.
