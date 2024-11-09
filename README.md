@@ -21,12 +21,11 @@ Welcome to my GitHub profile! I am passionate about data science and continuousl
 ### Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) : Proficient in Python programming, including data manipulation and analysis.
 
-
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) : Skilled in writing and optimizing SQL queries for data retrieval and manipulation.
 
 ### Statistics 
-![Statistics for Machine Learning](https://img.shields.io/badge/Statistics%20for%20ML-4B0082?style=for-the-badge&logo=gnu&logoColor=white) : Understanding of fundamental statistics principles used in data analysis and machine learning.
+- **Statistics For Machine Learning** : Understanding of fundamental statistics principles used in data analysis and machine learning.
 
 ### Libraries
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) : Numerical computing with Python.
@@ -38,9 +37,9 @@ Welcome to my GitHub profile! I am passionate about data science and continuousl
 - **Supervised Learning**: Techniques like linear regression, decision trees, and more.
 - **Unsupervised Learning**: Techniques such as clustering and dimensionality reduction.
 
-
 ### Visualization and Reporting
-- **Power BI Desktop**![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black) : Basic knowledge of creating reports and visualizations.
+- **Power BI Desktop** : Basic knowledge of creating reports and visualizations.
+
 
 ## 📚 Currently Learning
 - Advanced data science techniques and tools to broaden my understanding and expertise.
