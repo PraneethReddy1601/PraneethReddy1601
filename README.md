@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I am passionate about data science and continuousl
 - **Unsupervised Learning**: Techniques such as clustering and dimensionality reduction.
 
 ### Visualization and Reporting
-- **Power BI Desktop** : Basic knowledge of creating reports and visualizations.
+- **Power BI Desktop** : Basic knowledge of creating Dashboards and visualizations.
 
 
 ## 📚 Currently Learning
