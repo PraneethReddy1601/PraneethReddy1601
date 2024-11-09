@@ -37,6 +37,8 @@ Welcome to my GitHub profile! I am passionate about data science and continuousl
 - **Algorithms**: Familiar with various machine learning algorithms.
 - **Supervised Learning**: Techniques like linear regression, decision trees, and more.
 - **Unsupervised Learning**: Techniques such as clustering and dimensionality reduction.
+- ![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-0078D4?style=for-the-badge)
+![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-FF1493?style=for-the-badge)
 
 ### Visualization and Reporting
 - **Power BI Desktop**: Basic knowledge of creating reports and visualizations.
