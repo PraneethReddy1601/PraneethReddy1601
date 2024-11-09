@@ -28,6 +28,7 @@ Welcome to my GitHub profile! I am passionate about data science and continuousl
 
 ### Libraries
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) : Numerical computing with Python.
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) : Data manipulation and analysis.
 
 ### Machine Learning
