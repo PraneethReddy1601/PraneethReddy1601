@@ -18,11 +18,12 @@ Welcome to my GitHub profile! I am passionate about data science and continuousl
 
 ### Programming
 - **Python**: Proficient in Python programming, including data manipulation and analysis.
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) : Proficient in Python programming, including data manipulation and analysis.
 
 
 ### Database
 - **MySQL**: Skilled in writing and optimizing SQL queries for data retrieval and manipulation.
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Statistics
 - Understanding of fundamental statistics principles used in data analysis and machine learning.
