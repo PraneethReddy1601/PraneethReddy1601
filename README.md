@@ -24,15 +24,11 @@ Welcome to my GitHub profile! I am passionate about data science and continuousl
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) : Skilled in writing and optimizing SQL queries for data retrieval and manipulation.
 
 ### Statistics 
-![Statistics for Machine Learning](https://img.shields.io/badge/Statistics%20for%20ML-4B0082?style=for-the-badge&logo=gnu&logoColor=white)
-- Understanding of fundamental statistics principles used in data analysis and machine learning.
+![Statistics for Machine Learning](https://img.shields.io/badge/Statistics%20for%20ML-4B0082?style=for-the-badge&logo=gnu&logoColor=white) : Understanding of fundamental statistics principles used in data analysis and machine learning.
 
 ### Libraries
-- **NumPy**
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) : Numerical computing with Python.
-
-- **Pandas**
-- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) : Data manipulation and analysis.
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) : Data manipulation and analysis.
 
 ### Machine Learning
 - **Algorithms**: Familiar with various machine learning algorithms.
