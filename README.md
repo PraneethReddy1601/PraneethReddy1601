@@ -24,6 +24,11 @@ Welcome to my GitHub profile! I am passionate about data science and continuousl
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) : Skilled in writing and optimizing SQL queries for data retrieval and manipulation.
 
+### Exploratory Data Analysis (EDA)
+- **Data Exploration and Visualization** : Skilled in performing EDA using **Pandas**, **Matplotlib**, and **Seaborn**. 
+- Experience with data cleaning, identifying outliers, and visualizing trends and distributions through plots such as histograms, box plots, and heatmaps.
+- Focus on extracting meaningful insights from data to guide further analysis.
+
 ### Statistics 
 - **Statistics For Machine Learning** : Understanding of fundamental statistics principles used in data analysis and machine learning.
 
